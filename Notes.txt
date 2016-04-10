@@ -1,0 +1,5 @@
+Compile:
+$ go install {directory in relation to workspace}
+
+Execute:
+$ $GOPATH/bin/{executable name}
